@@ -12,6 +12,7 @@ vs code settings:
 
 viewing variable assignments:
   install jupyter extention
-  
+  go to keyboard shortcuts > edit "wehn" expression to remove "&& jupyter.ownsSelection"
 
 set the environment:
+  cmd+shift+p > python: select interpreter
