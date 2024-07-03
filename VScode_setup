@@ -1,0 +1,17 @@
+download for mac
+extentions: 
+  git graph
+  intellicode
+  python/pylance
+  jupyter notebook renderers
+  jupyter
+
+vs code settings:
+  view>appearance>panel - right click>panel position> right
+  keyboard shortcuts - run selection in interactive window (ctrl + r)
+
+viewing variable assignments:
+  install jupyter extention
+  
+
+set the environment:
