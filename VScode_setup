@@ -9,6 +9,7 @@ extentions:
 vs code settings:
   view>appearance>panel - right click>panel position> right
   keyboard shortcuts - run selection in interactive window (ctrl + r)
+  keyboard shortcuts - acceptSelectedSuggestion > (tab)
 
 viewing variable assignments:
   install jupyter extention
@@ -16,3 +17,5 @@ viewing variable assignments:
 
 set the environment:
   cmd+shift+p > python: select interpreter
+
+
